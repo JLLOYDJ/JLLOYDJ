@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on Arithmetic Run (UAL Year 2 Project 1)<br>🌱 I’m currently learning Unity 6 / C#
+🔭 I’m currently working on Arithmetic Run (UAL Year 2 Project 1)<br>
+🌱 I’m currently learning Unity 6 / C# - Unreal Engine 5 / Blueprints<br>
 
 
 # 💻 Tech Stack:
@@ -8,7 +9,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TrickfireRAGE&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=TrickfireRAGE&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TrickfireRAGE&theme=neon&hide_border=false)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TrickfireRAGE&theme=neon&no-frame=false&no-bg=false&margin-w=4)
