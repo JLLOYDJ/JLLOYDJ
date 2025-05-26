@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on Arithmetic Run (UAL Year 2 Project 1)<br>
-🌱 I’m currently learning Unity 6 / C# - Unreal Engine 5 / Blueprints<br>
+🔭 I’m currently working on Project Cross (Personal Project)<br>
+🌱 I’m currently learning Unity 6 / C# - Unreal Engine 4/5 / Blueprints<br>
 
 
 # 💻 Tech Stack:
