@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on Project Cross (Personal Project)<br>
-🌱 I’m currently learning Unity 6 / C# - Unreal Engine 4/5 / Blueprints<br>
+🔭 Currently leveling up all my skills in University of Portsmouth (Games Technology)<br>
+🌱 I’m currently learning C++ / C# <br>
 
 
 # 💻 Tech Stack:
