@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 Currently leveling up all my skills in University of Portsmouth (Games Technology)<br>
-🌱 I’m currently learning C++ / C# <br>
+🔭 Currently leveling up all my skills in University of Portsmouth (Computer Games Production)<br>
+🌱 I’m currently learning C++ / C# as well as Project Management with Trello/Jira <br>
 
 
 # 💻 Tech Stack:
